@@ -26,4 +26,3 @@ fn main() {
         println!("Element {} not found in the array", target);
     }
 }
-
